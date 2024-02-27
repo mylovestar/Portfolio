@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Juspay.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed Bachelor of Computer Science (BCs) in Computer Engineering at University of Novi Sad.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

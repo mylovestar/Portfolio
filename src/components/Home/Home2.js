@@ -72,17 +72,17 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillGithub />
+                  <img src="/images/github.png" alt="" width="40px" />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://t.me/cryptodev0615"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <img src="/images/telegram.png" alt="" width="40px" />
                 </a>
               </li>
               <li className="social-icons">
@@ -92,19 +92,19 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <FaLinkedinIn />
+                  <img src="/images/linkedin.png" alt="" width="40px" />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://discord.com/drag.vas88"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <img src="/images/discord.png" alt="" width="40px" />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>

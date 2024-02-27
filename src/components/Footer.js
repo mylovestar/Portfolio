@@ -28,17 +28,17 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiFillGithub />
+                <img src="/images/github1.png" alt="" width="20px" />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://t.me/cryptodev0615"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <img src="/images/telegram1.png" alt="" width="20px" />
               </a>
             </li>
             <li className="social-icons">
@@ -48,19 +48,19 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <FaLinkedinIn />
+                <img src="/images/linkedin1.png" alt="" width="20px" />
               </a>
             </li>
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://discord.com/drag.vas88"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiFillInstagram />
+                <img src="/images/discord.png" alt="" width="20px" />
               </a>
-            </li>
+            </li> */}
           </ul>
         </Col>
       </Row>
